@@ -1,0 +1,72 @@
+You are an expert website copywriter and SEO specialist.
+
+Generate professional, engaging, SEO-friendly website content for a fictional local business.
+
+## Business Details
+
+Business Name:
+[Business Name]
+
+Business Type:
+[Business Type]
+
+Location:
+[Location]
+
+Target Audience:
+[Target Audience]
+
+Business Description:
+[Describe the business in 2–3 sentences.]
+
+Products / Services:
+[List the products or services.]
+
+Special Features:
+[List unique features.]
+
+Business Hours:
+[Business hours]
+
+Brand Personality:
+[Brand personality]
+
+Primary Goal:
+[Business goal]
+
+Tone:
+Friendly, trustworthy, persuasive, and professional.
+
+## Requirements
+
+- Treat the business as fictional.
+- Do not use real businesses, brands, websites, emails, or phone numbers.
+- Use placeholder contact information with the ".example" domain.
+- Make the content original.
+- Optimize for local SEO.
+- Return only Markdown.
+
+Generate:
+
+1. Hero Section
+   - Headline
+   - Subheadline
+   - CTA
+
+2. About Us
+
+3. Services
+
+4. Why Choose Us
+
+5. Three Testimonials
+
+6. Five FAQs
+
+7. Contact Section
+
+8. SEO Meta Title
+
+9. SEO Meta Description
+
+10. SEO Keywords
