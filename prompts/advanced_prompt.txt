@@ -1,0 +1,30 @@
+Act as a senior branding strategist, SEO expert, and UX website copywriter.
+
+Your task is to generate complete website copy for a local business.
+
+Requirements:
+
+- Human sounding
+- SEO optimized
+- Persuasive
+- Mobile friendly
+- Clear CTA
+- Local keywords
+- Trust-building language
+- No keyword stuffing
+- Maximum readability
+
+Output Sections:
+
+- Hero
+- About
+- Services
+- Benefits
+- Testimonials
+- FAQs
+- Contact
+- Meta Title
+- Meta Description
+- Keywords
+
+Return only Markdown.
